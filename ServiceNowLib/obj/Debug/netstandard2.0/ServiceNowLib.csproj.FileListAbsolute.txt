@@ -1,0 +1,8 @@
+C:\Users\azam5\Source\Repos\ServiceNowLib\bin\Debug\netstandard2.0\ServiceNowLib.deps.json
+C:\Users\azam5\Source\Repos\ServiceNowLib\bin\Debug\netstandard2.0\ServiceNowLib.dll
+C:\Users\azam5\Source\Repos\ServiceNowLib\bin\Debug\netstandard2.0\ServiceNowLib.pdb
+C:\Users\azam5\Source\Repos\ServiceNowLib\obj\Debug\netstandard2.0\ServiceNowLib.csproj.CoreCompileInputs.cache
+C:\Users\azam5\Source\Repos\ServiceNowLib\obj\Debug\netstandard2.0\ServiceNowLib.AssemblyInfoInputs.cache
+C:\Users\azam5\Source\Repos\ServiceNowLib\obj\Debug\netstandard2.0\ServiceNowLib.AssemblyInfo.cs
+C:\Users\azam5\Source\Repos\ServiceNowLib\obj\Debug\netstandard2.0\ServiceNowLib.dll
+C:\Users\azam5\Source\Repos\ServiceNowLib\obj\Debug\netstandard2.0\ServiceNowLib.pdb

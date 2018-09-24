@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>ServiceNowLib_5_51_50001</PackageId>
+    <PackageTags>Simple Test</PackageTags>
+    <Company>ServiceNowLib_None_xyz</Company>
+    <Authors>ServiceNowLib_Mohammed_A_Khan</Authors>
+  </PropertyGroup>
+
+</Project>
